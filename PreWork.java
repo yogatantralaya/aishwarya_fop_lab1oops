@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main {
+public class PreWork {
 
 
     Scanner sc = new Scanner(System.in);
@@ -87,7 +87,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        Main obj = new Main();
+        PreWork obj = new PreWork();
 
         int choice;
 
